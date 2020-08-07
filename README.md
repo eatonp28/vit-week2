@@ -11,31 +11,31 @@ There are 3 branches with different instructions of what needs to be accomplishe
 check for any changes in the repo:
 
 ```git
-[change me]
+status
 ```
 
 retrieve a list of all the branches:
 
 ```git
-[change me]
+branch
 ```
 
 creation of a new branch:
 
 ```git
-[change me]
+checkout -b
 ```
 
 staging file(s) to the current branch:
 
 ```git
-[change me]
+add .
 ```
 
 locking in the staged files to the current branch:
 
 ```git
-[change me]
+commit -m 
 ```
 
 After completing, commit to this master branch with the message "[Name] updated the master README"
